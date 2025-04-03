@@ -6,19 +6,74 @@
       {
         "id": "db7d6c89cc049704",
         "type": "tabs",
+        "dimension": 33.359133126934985,
         "children": [
           {
             "id": "6fd5a840bed4d4f4",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "10-university/Sophomore Year/1-2-2-4 Investment Science/0_textbooks/1.3第三章 投资市场运行.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1.3第三章 投资市场运行"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c70a4b796b498892",
+        "type": "tabs",
+        "dimension": 29.953560371517028,
+        "children": [
+          {
+            "id": "80964a73f37d1af6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "10-university/Sophomore Year/1-2-2-4 Investment Science/1_NOTE/Chapter 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Chapter 3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "713a68c58c3935bf",
+        "type": "tabs",
+        "dimension": 36.68730650154799,
+        "children": [
+          {
+            "id": "647814554cfbc8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-university/Sophomore Year/1-2-2-4 Investment Science/2_ Exam Point/Exam Point.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam Point"
+            }
+          },
+          {
+            "id": "830423c8769eeec1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://kimi.moonshot.cn/chat/cvmvpdm6s4t0v6t73l10",
+                "title": "提取这个图片的内容，转为markdown，注意逻辑关系 - Kimi.ai",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "提取这个图片的内容，转为markdown，注意逻辑关系 - Kimi.ai"
             }
           }
         ]
@@ -78,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4ef3c2c20615d2c7",
@@ -94,17 +150,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "10-university/Sophomore Year/1-2-2-4 Investment Science/2_ Exam Point/Exam Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "Exam Point 的反向链接列表"
             }
           },
           {
@@ -155,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +220,18 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "6fd5a840bed4d4f4",
+  "active": "647814554cfbc8b8",
   "lastOpenFiles": [
-    "0-university/1-Economics Course",
+    "新建 文本文档.txt",
+    "10-university/Sophomore Year/1-2-2-4 Investment Science/1_NOTE/Chapter 3.md",
+    "10-university/Sophomore Year/1-2-2-4 Investment Science/2_ Exam Point/Exam Point.md",
+    "10-university/Sophomore Year/1-2-2-4 Investment Science/0_textbooks/1.3第三章 投资市场运行.pdf",
     "README.md",
+    "0-university/1-Economics Course",
     "0-university"
   ]
 }
