@@ -1,0 +1,234 @@
+{
+  "workspaces": {
+    "投资学": {
+      "main": {
+        "id": "b10ae4e9769668ac",
+        "type": "split",
+        "children": [
+          {
+            "id": "20e2766bd9e47562",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "07694634ef970ba6",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "10-university/Sophomore Year/1-2-2-4 Investment Science/0_textbooks/1.3第三章 投资市场运行.pdf",
+                    "page": 1,
+                    "left": -31,
+                    "top": 408,
+                    "zoom": 0.5114583333333333
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1.3第三章 投资市场运行"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8baf697caf7143f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "42769ea910ff6faa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10-university/Sophomore Year/1-2-2-4 Investment Science/1_NOTE/Chapter 3.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chapter 3"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a4482d0121d2f5de",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d41eb304f23c98a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "68666ecd5d9828b7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "151e81c1441a004e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "58befb7bd4661a8f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 209.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "4ef3c2c20615d2c7",
+        "type": "split",
+        "children": [
+          {
+            "id": "700c50b2805c7cc7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b988e1a941f9107a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10-university/Sophomore Year/1-2-2-4 Investment Science/2_ Exam Point/Exam Point.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Exam Point"
+                }
+              },
+              {
+                "id": "64ea831630c6d072",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://kimi.moonshot.cn/chat/cvmuhpp09tp95quqq90g",
+                    "title": "Git 忽略 .obsidian 文件 - Kimi.ai",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Git 忽略 .obsidian 文件 - Kimi.ai"
+                }
+              },
+              {
+                "id": "a27dbc732d3bea3c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "10-university/Sophomore Year/0-2-2 Mao_Ze_dong_Thought_and_Contemporary_Marxism/许_笔记.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "许_笔记 的反向链接列表"
+                }
+              },
+              {
+                "id": "41155e6121dfa7f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "README.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "README 的出链列表"
+                }
+              },
+              {
+                "id": "af8bbcfa40f7cfc3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "95d0f98f1a974f7c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "README.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "README 的大纲"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 406.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false
+        }
+      },
+      "active": "42769ea910ff6faa",
+      "mtime": "2025-04-03T10:03:03+08:00"
+    }
+  },
+  "active": "投资学"
+}
